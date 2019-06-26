@@ -1,0 +1,10 @@
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\bin\Debug\COMP123 -S2019-Lesson8C.exe.config
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\bin\Debug\COMP123 -S2019-Lesson8C.exe
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\bin\Debug\COMP123 -S2019-Lesson8C.pdb
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123 -S2019-Lesson8C.csprojAssemblyReference.cache
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123__S2019_Lesson8C.Lab8form.resources
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123__S2019_Lesson8C.Properties.Resources.resources
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123 -S2019-Lesson8C.csproj.GenerateResource.cache
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123 -S2019-Lesson8C.csproj.CoreCompileInputs.cache
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123 -S2019-Lesson8C.exe
+C:\Users\fm800\source\repos\COMP123 -S2019-Lesson8C\COMP123 -S2019-Lesson8C\obj\Debug\COMP123 -S2019-Lesson8C.pdb
